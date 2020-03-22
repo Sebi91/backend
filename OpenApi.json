@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "digitalekrankheitsanamnese _31_b_ID1",
+    "title": "OpenHealthCheck",
     "version": "V1"
   },
   "servers": [
